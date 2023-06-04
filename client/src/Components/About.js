@@ -17,6 +17,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import signPic from "../Assets/img.jpg";
 
+
 const About = () => {
   return (
     <Flex align="center" justify="center" height="94vh">
